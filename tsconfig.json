@@ -89,5 +89,6 @@
     "${configDir}/src",
     ".next/types/**/*.ts",
     "./scripts/**/*.ts",
+    "./middleware.ts"
   ]
 }
